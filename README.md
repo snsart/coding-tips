@@ -56,3 +56,7 @@
 * .news	新闻
 * .download	下载
 * .banner	广告条(顶部广告条)
+* -ico图标后缀
+* -txt文本后缀
+* -cont容器
+* -pop 出现 多用于下拉菜单
