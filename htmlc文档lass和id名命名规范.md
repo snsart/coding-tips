@@ -1,4 +1,4 @@
-## html类或id名命名总结
+## html文档class或id名命名总结
 
 * wrapper	页面外围控制整体布局宽度
 * container或content	容器,用于最外层
