@@ -1,4 +1,4 @@
-在编写html文档时，尽力使用语义化的标签，比如<header>、<nav>、<footer>、<h1>等，编写css时也要尽力使用元素选择器。不过大部分情况下是避免不了为元素添加class和id的,下面给出类和id的命名规范。
+在编写html文档时，尽力使用语义化的标签，比如 &lt;header&gt; 、&lt;nav&gt;、&lt;footer&gt;、&lt;h1&gt;等，编写css时也要尽力使用元素选择器。不过大部分情况下是避免不了为元素添加class和id的,下面给出类和id的命名规范。
   
 ## html文档class或id名命名总结
 
